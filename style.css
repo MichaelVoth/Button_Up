@@ -1,0 +1,25 @@
+.search {
+    color: aqua;
+    padding-left: 40px;
+    padding-right: 40px;
+    border-radius: 10px;
+    border-color: aqua;
+
+}
+div {
+    margin: 20px;
+}
+
+.plus {
+    color: white;
+    background-color: aqua;
+    border-radius: 10px;
+    border-color: aqua;
+}
+.create {
+    color: white;
+    background-color: cornflowerblue;
+    padding-left: 30px;
+    padding-right: 30px;
+    box-shadow: 5px 5px black;
+}
